@@ -1,0 +1,2 @@
+
+In this lab I learned about creating a GitHub repository. It taught me how version control helps manage and track changes in a project over time. I learned how to initialize a repository, commit changes, and push files from my local machine to GitHub.
